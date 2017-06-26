@@ -1,8 +1,2 @@
 the test1 o yeah!
-<<<<<<< HEAD
-modify2 master.
-=======
-modify2 test.
->>>>>>> test
-
-modify2 conflict fixed.
+modify3 test.
