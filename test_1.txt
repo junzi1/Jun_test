@@ -1,6 +1,2 @@
 the test1 o yeah!
-<<<<<<< HEAD
-modify1
-=======
-modify1
->>>>>>> test
+modify2 master.
