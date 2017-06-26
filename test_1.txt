@@ -1,7 +1,2 @@
 the test1 o yeah!
-<<<<<<< HEAD
-jun_test modify1 test.
-fixed.
-=======
-jun_test1 modify1 test.
->>>>>>> d4456d830b7bd411d3a98e08ff1ee406dccb9dbd
+jun_test modify2 test.
