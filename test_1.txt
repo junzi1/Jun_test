@@ -1,2 +1,6 @@
 the test1 o yeah!
-modify1 master branch.
+<<<<<<< HEAD
+modify1
+=======
+modify1
+>>>>>>> test
